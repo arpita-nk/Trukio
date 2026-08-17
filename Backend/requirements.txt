@@ -1,0 +1,14 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/4~CQH2ugAdEkxx3ZkrZolIWlkoB3pJrxMjVv7CK8s/Library/Caches/com.apple.xbs/TemporaryDirectory.1I3Zwu/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+asgiref==3.6.0
+autopep8==2.0.2
+Django==4.2
+django-cors-headers==4.0.0
+future @ file:///AppleInternal/Library/BuildRoots/4~CQH2ugAdEkxx3ZkrZolIWlkoB3pJrxMjVv7CK8s/Library/Caches/com.apple.xbs/TemporaryDirectory.1I3Zwu/Sources/python3/future-0.18.2-py3-none-any.whl
+macholib @ file:///AppleInternal/Library/BuildRoots/4~CQH2ugAdEkxx3ZkrZolIWlkoB3pJrxMjVv7CK8s/Library/Caches/com.apple.xbs/TemporaryDirectory.1I3Zwu/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+Pillow==9.5.0
+pycodestyle==2.10.0
+six @ file:///AppleInternal/Library/BuildRoots/4~CQH2ugAdEkxx3ZkrZolIWlkoB3pJrxMjVv7CK8s/Library/Caches/com.apple.xbs/TemporaryDirectory.1I3Zwu/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+SQLAlchemy==2.0.52
+sqlparse==0.4.3
+tomli==2.0.1
+typing_extensions==4.16.0
