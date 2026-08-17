@@ -11,6 +11,7 @@ pydantic_core==2.46.4
 python-barcode==0.16.1
 python-dotenv==1.2.3
 python-multipart==0.0.32
+qrcode==8.2
 SQLAlchemy==2.0.52
 starlette==1.6.0
 typing-inspection==0.4.4
