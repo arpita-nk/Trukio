@@ -1,4 +1,5 @@
-# Trukio
+# Trukio 
+Truck automation platform 
 Trukio is an end-to-end warehouse and truck automation platform that streamlines everything from dock scheduling to fleet coordination — built to make yard operations simpler, faster, and less chaotic for the teams running them.
 
 Overview
