@@ -71,7 +71,7 @@ Trukio/
 
 3. Open your browser at `http://localhost:3000` (or whichever port your frontend runs on)
 
-> ⚠️ Replace the commands above with your project's actual scripts (e.g. `npm run dev`, `yarn dev`) and confirm the correct ports/env variables.
+> Live demo is available `https://trukio.onrender.com/`
 
 ## Environment Variables
 
