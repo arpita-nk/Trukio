@@ -22,7 +22,7 @@ export default function Sidebar() {
       <div className="d-flex align-items-center gap-2">
         <div className="brand-mark">D</div>
         <div>
-          <div className="brand-name">DigiTrail</div>
+          <div className="brand-name">Trukio</div>
           <div className="brand-sub">Gate Entry</div>
         </div>
       </div>
@@ -49,7 +49,7 @@ export default function Sidebar() {
         <div className="avatar">A</div>
         <div>
           <div className="name">Demo Admin</div>
-          <div className="email">demo-admin@mysoreminds.in</div>
+          <div className="email">demo-admin@trukio.in</div>
         </div>
       </div>
     </aside>

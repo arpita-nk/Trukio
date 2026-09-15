@@ -6,7 +6,7 @@ export default function Header({ title }) {
   return (
     <Navbar className="topbar" bg="white" expand>
       <Navbar.Brand className="fw-bold">
-        Digi<span className="accent">Trail</span>
+        <span className="accent">Trukio</span>
       </Navbar.Brand>
       <div className="fw-semibold text-body-emphasis mx-auto d-none d-md-block">
         {title}
